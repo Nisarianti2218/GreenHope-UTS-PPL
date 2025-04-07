@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# 🌱 GreenHope: Platform Donasi Pohon untuk Penghijauan Daerah
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**GreenHope** adalah platform donasi pohon yang menghubungkan masyarakat dengan komunitas lingkungan serta daerah yang membutuhkan penghijauan. Tujuannya adalah membangun ekosistem hijau yang berkelanjutan melalui kontribusi sederhana namun berdampak besar dari para donatur.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📝 Deskripsi Singkat
 
-### `npm start`
+Melalui GreenHope, pengguna dapat:
+- Memilih lokasi penghijauan (taman kota, lahan kritis, area pertanian).
+- Menentukan jumlah pohon yang ingin didonasikan (contoh: 1 pohon = Rp10.000).
+- Mengisi formulir donasi dan mengunggah bukti pembayaran.
+- Menerima laporan perkembangan penghijauan secara berkala.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🎯 Tujuan Website
 
-### `npm test`
+- ✅ Meningkatkan partisipasi publik dalam gerakan penghijauan  
+- ✅ Menyediakan bibit pohon untuk daerah yang membutuhkan  
+- ✅ Mendukung komunitas lokal dan petani melalui program penghijauan  
+- ✅ Menjamin transparansi dan pelaporan bagi para donatur  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 📌 Fitur Utama
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- 🌍 **Halaman Donasi:** Menampilkan daftar lokasi penghijauan yang tersedia beserta deskripsi singkat.  
+- 🔍 **Melihat Lokasi Penghijauan yang Tersedia:** Pengguna dapat menjelajahi berbagai lokasi penghijauan sebelum memutuskan berdonasi.  
+- 🧾 **Formulir Donasi:** Formulir untuk mengisi data diri, jumlah pohon yang ingin didonasikan, dan unggahan bukti transfer.  
+- 📸 **Galeri Perkembangan:** Menampilkan foto sebelum dan sesudah kegiatan penghijauan sebagai bentuk laporan.  
+- 💬 **Testimoni & Kisah Sukses:** Cerita inspiratif dari lokasi yang berhasil menghijau kembali.  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🖥️ Teknologi yang Digunakan
 
-### `npm run eject`
+- **Frontend:** ReactJS  
+- **Styling:** CSS minimalis bertema hijau dan putih  
+- **Form Donasi:** Google Form atau Firebase (opsional)  
+- **Galeri & Laporan:** Dikelola melalui dashboard admin sederhana  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🎨 Tampilan & Pengalaman Pengguna (UI/UX)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Dominasi warna hijau alami dan putih  
+- Tombol "Donasi Sekarang" yang mencolok dan mudah ditemukan  
+- Desain ramah pengguna dan mobile-friendly  
+- Fokus pada narasi visual dan perubahan lingkungan nyata  
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 👨‍💻 Tim Pengembang
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Nisa Rianti — 2208107010018  
+- Raihan Firiyal — 2208107010084 
