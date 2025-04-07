@@ -1,23 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Home from "./pages/Home";
+import LokasiDonasi from "./pages/LokasiDonasi";
+import DetailLokasi from "./pages/DetailLokasi";
+import FormDonasi from './pages/FormDonasi';
+import KonfirmasiPembayaran from './pages/KonfirmasiPembayaran';
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Router>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/donasi" element={<LokasiDonasi />} />
+          <Route path="/lokasi/:nama" element={<DetailLokasi />} />
+          <Route path="/formdonasi/:lokasi" element={<FormDonasi />} />
+          <Route path="/KonfirmasiPembayaran/:lokasi" element={<KonfirmasiPembayaran />} />
+        </Routes>
+      </Router>
     </div>
   );
 }
