@@ -16,10 +16,10 @@ Melalui GreenHope, pengguna dapat:
 
 ## 🎯 Tujuan Website
 
-- ✅ Meningkatkan partisipasi publik dalam gerakan penghijauan  
-- ✅ Menyediakan bibit pohon untuk daerah yang membutuhkan  
-- ✅ Mendukung komunitas lokal dan petani melalui program penghijauan  
-- ✅ Menjamin transparansi dan pelaporan bagi para donatur  
+-  Meningkatkan partisipasi publik dalam gerakan penghijauan  
+-  Menyediakan bibit pohon untuk daerah yang membutuhkan  
+-  Mendukung komunitas lokal dan petani melalui program penghijauan  
+-  Menjamin transparansi dan pelaporan bagi para donatur  
 
 ---
 
